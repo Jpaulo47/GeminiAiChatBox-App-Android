@@ -22,8 +22,7 @@ Este é um aplicativo Android que utiliza a tecnologia Jetpack Compose e integra
 
 ### Siga estas etapas para executar o aplicativo localmente:
 
- - Clone o repositório:
- - git clone [https://github.com/seu-usuario/geminiaichatbox.git](https://github.com/Jpaulo47/GeminiAiChatBox-App-Android.git)
+ - Clone o repositório.
  - Abra o projeto no Android Studio.
  - Execute o aplicativo em um emulador ou dispositivo Android.
    
